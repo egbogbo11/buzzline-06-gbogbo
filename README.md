@@ -61,7 +61,7 @@ buzzline-06-gbogbo/
 
 ## Prerequisites
 
-- Python 3.8+
+- Python 3.11
 - Apache Kafka running locally (default: `localhost:9092`)
 - Required Python packages (install via `requirements.txt`)
 
@@ -160,7 +160,7 @@ The consumer automatically opens a **Matplotlib animated line chart** that displ
 
 ### Example Visualization
 
-![Basketball Score Tracker Visualization](screenshot_placeholder.png)
+![Basketball Score Tracker Visualization](images/basketball-tracker.png)
 
 *Screenshot showing the live Matplotlib animation with both team scores plotted over game time. The Lakers (blue line) and Warriors (orange line) scores update in real-time as events stream from Kafka.*
 
