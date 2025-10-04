@@ -1,0 +1,369 @@
+2025-10-02 21:10:36 | INFO | Logging to file: logs/project_log.log
+2025-10-02 21:10:36 | INFO | Log sanitization enabled, personal info removed
+2025-10-02 21:10:36 | INFO | Basketball Producer Starting...
+2025-10-02 21:10:37 | INFO | Kafka broker address: localhost:9092
+2025-10-02 21:10:37 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'HpVDt2xUThyOIoAj7H8wjg', 'controller_id': 1}
+2025-10-02 21:10:37 | INFO | Kafka broker address: localhost:9092
+2025-10-02 21:10:37 | INFO | Topic 'basketball-game' created successfully.
+2025-10-02 21:10:37 | INFO | Kafka broker address: localhost:9092
+2025-10-02 21:10:37 | INFO | Connecting to Kafka broker at localhost:9092...
+2025-10-02 21:10:38 | INFO | Kafka producer successfully created.
+2025-10-02 21:10:38 | INFO | Starting basketball game simulation...
+2025-10-02 21:10:38 | INFO | Lakers vs Warriors
+2025-10-02 21:10:38 | INFO | 
+=== Quarter 1 ===
+2025-10-02 21:10:38 | INFO | Q1 12:00 - Warriors: Stephen Curry scores 2 points! Score: 0-2
+2025-10-02 21:10:42 | INFO | Q1 11:00 - Lakers: Austin Reaves scores 2 points! Score: 2-2
+2025-10-02 21:10:44 | INFO | Q1 10:16 - Warriors: Chris Paul scores 2 points! Score: 2-4
+2025-10-02 21:10:47 | INFO | Q1 09:32 - Lakers: D'Angelo Russell scores 2 points! Score: 4-4
+2025-10-02 21:10:51 | INFO | Q1 09:00 - Warriors: Chris Paul scores 2 points! Score: 4-6
+2025-10-02 21:10:55 | INFO | Q1 08:10 - Warriors: Andrew Wiggins scores 3 points! Score: 4-9
+2025-10-02 21:10:58 | INFO | Q1 07:18 - Lakers: Anthony Davis scores 2 points! Score: 6-9
+2025-10-02 21:11:00 | INFO | Q1 06:55 - Warriors: Chris Paul scores 2 points! Score: 6-11
+2025-10-02 21:11:02 | INFO | Q1 06:14 - Lakers: Rui Hachimura scores 2 points! Score: 8-11
+2025-10-02 21:11:05 | INFO | Logging to file: logs/project_log.log
+2025-10-02 21:11:05 | INFO | Log sanitization enabled, personal info removed
+2025-10-02 21:11:07 | INFO | Q1 05:20 - Lakers: LeBron James scores 2 points! Score: 10-11
+2025-10-02 21:11:10 | INFO | Q1 04:42 - Lakers: Anthony Davis scores 2 points! Score: 12-11
+2025-10-02 21:11:13 | INFO | Q1 04:22 - Lakers: Austin Reaves scores 2 points! Score: 14-11
+2025-10-02 21:11:15 | INFO | Q1 03:41 - Lakers: Rui Hachimura scores 3 points! Score: 17-11
+2025-10-02 21:11:19 | INFO | Q1 02:55 - Warriors: Draymond Green scores 2 points! Score: 17-13
+2025-10-02 21:11:23 | INFO | 
+=== Quarter 2 ===
+2025-10-02 21:11:23 | INFO | Q2 12:00 - Warriors: Stephen Curry scores 3 points! Score: 17-16
+2025-10-02 21:11:26 | INFO | Q2 11:00 - Warriors: Draymond Green scores 3 points! Score: 17-19
+2025-10-02 21:11:28 | INFO | Q2 10:21 - Warriors: Chris Paul scores 2 points! Score: 17-21
+2025-10-02 21:11:30 | INFO | Q2 09:22 - Lakers: Anthony Davis scores 2 points! Score: 19-21
+2025-10-02 21:11:32 | INFO | Q2 08:40 - Warriors: Chris Paul scores 3 points! Score: 19-24
+2025-10-02 21:11:35 | INFO | Q2 07:52 - Warriors: Chris Paul scores 2 points! Score: 19-26
+2025-10-02 21:11:37 | INFO | Q2 06:59 - Lakers: D'Angelo Russell scores 3 points! Score: 22-26
+2025-10-02 21:11:40 | INFO | Q2 06:24 - Warriors: Draymond Green scores 3 points! Score: 22-29
+2025-10-02 21:11:42 | INFO | Q2 05:49 - Warriors: Klay Thompson scores 3 points! Score: 22-32
+2025-10-02 21:11:46 | INFO | Q2 04:54 - Warriors: Stephen Curry scores 2 points! Score: 22-34
+2025-10-02 21:11:49 | INFO | Q2 04:28 - Lakers: LeBron James scores 2 points! Score: 24-34
+2025-10-02 21:11:53 | INFO | Q2 03:56 - Lakers: Rui Hachimura scores 3 points! Score: 27-34
+2025-10-02 21:11:56 | INFO | Q2 03:29 - Lakers: Anthony Davis scores 2 points! Score: 29-34
+2025-10-02 21:11:59 | INFO | Q2 02:54 - Lakers: LeBron James scores 2 points! Score: 31-34
+2025-10-02 21:12:01 | INFO | Q2 02:13 - Warriors: Andrew Wiggins scores 2 points! Score: 31-36
+2025-10-02 21:12:04 | INFO | 
+=== Quarter 3 ===
+2025-10-02 21:12:04 | INFO | Q3 12:00 - Lakers: Rui Hachimura scores 3 points! Score: 34-36
+2025-10-02 21:12:08 | INFO | Q3 11:24 - Warriors: Stephen Curry scores 3 points! Score: 34-39
+2025-10-02 21:12:12 | INFO | Q3 10:29 - Warriors: Klay Thompson scores 2 points! Score: 34-41
+2025-10-02 21:12:15 | INFO | Q3 09:54 - Lakers: LeBron James scores 3 points! Score: 37-41
+2025-10-02 21:12:19 | INFO | Q3 08:54 - Warriors: Klay Thompson scores 2 points! Score: 37-43
+2025-10-02 21:12:21 | INFO | Q3 08:02 - Lakers: LeBron James scores 2 points! Score: 39-43
+2025-10-02 21:12:24 | INFO | Q3 07:14 - Lakers: Rui Hachimura scores 2 points! Score: 41-43
+2025-10-02 21:12:26 | INFO | Q3 06:20 - Warriors: Stephen Curry scores 2 points! Score: 41-45
+2025-10-02 21:12:28 | INFO | Q3 05:39 - Warriors: Andrew Wiggins scores 2 points! Score: 41-47
+2025-10-02 21:12:31 | INFO | Q3 04:56 - Lakers: Anthony Davis scores 3 points! Score: 44-47
+2025-10-02 21:12:35 | INFO | Q3 04:02 - Warriors: Stephen Curry scores 2 points! Score: 44-49
+2025-10-02 21:12:37 | INFO | Q3 03:41 - Lakers: D'Angelo Russell scores 3 points! Score: 47-49
+2025-10-02 21:12:41 | INFO | Q3 02:56 - Warriors: Chris Paul scores 2 points! Score: 47-51
+2025-10-02 21:12:42 | INFO | Logging to file: logs/project_log.log
+2025-10-02 21:12:42 | INFO | Log sanitization enabled, personal info removed
+2025-10-02 21:12:44 | INFO | 
+=== Quarter 4 ===
+2025-10-02 21:12:44 | INFO | Q4 12:00 - Lakers: Austin Reaves scores 3 points! Score: 50-51
+2025-10-02 21:12:46 | INFO | Q4 11:18 - Lakers: Austin Reaves scores 3 points! Score: 53-51
+2025-10-02 21:12:48 | INFO | Q4 10:53 - Lakers: D'Angelo Russell scores 2 points! Score: 55-51
+2025-10-02 21:12:50 | INFO | Q4 10:10 - Lakers: Rui Hachimura scores 2 points! Score: 57-51
+2025-10-02 21:12:53 | INFO | Q4 09:23 - Lakers: Anthony Davis scores 3 points! Score: 60-51
+2025-10-02 21:12:57 | INFO | Q4 08:34 - Lakers: Rui Hachimura scores 3 points! Score: 63-51
+2025-10-02 21:13:01 | INFO | Q4 07:57 - Warriors: Stephen Curry scores 2 points! Score: 63-53
+2025-10-02 21:13:05 | INFO | Q4 07:06 - Warriors: Klay Thompson scores 2 points! Score: 63-55
+2025-10-02 21:13:07 | INFO | Q4 06:12 - Lakers: D'Angelo Russell scores 3 points! Score: 66-55
+2025-10-02 21:13:11 | INFO | Q4 05:20 - Warriors: Chris Paul scores 3 points! Score: 66-58
+2025-10-02 21:13:13 | INFO | Q4 04:44 - Warriors: Andrew Wiggins scores 2 points! Score: 66-60
+2025-10-02 21:13:17 | INFO | Q4 03:54 - Lakers: Austin Reaves scores 2 points! Score: 68-60
+2025-10-02 21:13:19 | INFO | Q4 03:09 - Warriors: Stephen Curry scores 3 points! Score: 68-63
+2025-10-02 21:13:21 | INFO | Q4 02:32 - Warriors: Andrew Wiggins scores 2 points! Score: 68-65
+2025-10-02 21:13:24 | INFO | Q4 01:42 - Warriors: Andrew Wiggins scores 2 points! Score: 68-67
+2025-10-02 21:13:27 | INFO | 
+==================================================
+2025-10-02 21:13:27 | INFO | GAME FINAL
+2025-10-02 21:13:27 | INFO | Lakers: 68
+2025-10-02 21:13:27 | INFO | Warriors: 67
+2025-10-02 21:13:27 | INFO | Total scoring events: 57
+2025-10-02 21:13:27 | INFO | ==================================================
+2025-10-02 21:13:27 | INFO | Closing Kafka producer...
+2025-10-02 21:13:27 | INFO | Producer closed. Goodbye!
+2025-10-03 15:55:00 | INFO | Logging to file: logs/project_log.log
+2025-10-03 15:55:00 | INFO | Log sanitization enabled, personal info removed
+2025-10-03 15:55:09 | INFO | Basketball Consumer Starting...
+2025-10-03 15:55:09 | INFO | Subscribing to topic: basketball-game
+2025-10-03 15:55:09 | INFO | Kafka broker address: localhost:9092
+2025-10-03 15:55:09 | INFO | Creating Kafka consumer. Topic='basketball-game' and group ID='basketball-analytics-group'.
+2025-10-03 15:55:09 | INFO | Kafka consumer created successfully.
+2025-10-03 15:55:09 | INFO | Analytics initialized: Lakers vs Warriors
+2025-10-03 15:55:09 | INFO | Visualizer initialized
+2025-10-03 15:55:09 | INFO | Consumer ready. Waiting for messages...
+2025-10-03 15:55:09 | INFO | Press Ctrl+C to stop.
+
+2025-10-03 15:55:10 | INFO | Plot setup complete
+2025-10-03 15:55:10 | INFO | Starting visualization...
+2025-10-03 15:55:13 | INFO | Event #1 | Q1 12:00 | Warriors: Stephen Curry scores 2 pts | Score: 0-2 | Warriors leads by 2
+2025-10-03 15:55:14 | INFO | Event #2 | Q1 11:00 | Lakers: Austin Reaves scores 2 pts | Score: 2-2 | Warriors leads by 0
+2025-10-03 15:55:14 | INFO | Event #3 | Q1 10:16 | Warriors: Chris Paul scores 2 pts | Score: 2-4 | Warriors leads by 2
+2025-10-03 15:55:14 | INFO | Event #4 | Q1 09:32 | Lakers: D'Angelo Russell scores 2 pts | Score: 4-4 | Warriors leads by 0
+2025-10-03 15:55:14 | INFO | Event #5 | Q1 09:00 | Warriors: Chris Paul scores 2 pts | Score: 4-6 | Warriors leads by 2
+2025-10-03 15:55:14 | INFO | Event #6 | Q1 08:10 | Warriors: Andrew Wiggins scores 3 pts | Score: 4-9 | Warriors leads by 5
+2025-10-03 15:55:14 | INFO | Event #7 | Q1 07:18 | Lakers: Anthony Davis scores 2 pts | Score: 6-9 | Warriors leads by 3
+2025-10-03 15:55:14 | INFO | Event #8 | Q1 06:55 | Warriors: Chris Paul scores 2 pts | Score: 6-11 | Warriors leads by 5
+2025-10-03 15:55:14 | INFO | Event #9 | Q1 06:14 | Lakers: Rui Hachimura scores 2 pts | Score: 8-11 | Warriors leads by 3
+2025-10-03 15:55:14 | INFO | Event #10 | Q1 05:20 | Lakers: LeBron James scores 2 pts | Score: 10-11 | Warriors leads by 1
+2025-10-03 15:55:14 | INFO | 🔥 MOMENTUM SHIFT: Lakers has scored 6 consecutive points!
+2025-10-03 15:55:14 | INFO | Event #11 | Q1 04:42 | Lakers: Anthony Davis scores 2 pts | Score: 12-11 | Lakers leads by 1
+2025-10-03 15:55:14 | INFO | 🔥 MOMENTUM SHIFT: Lakers has scored 8 consecutive points!
+2025-10-03 15:55:14 | INFO | Event #12 | Q1 04:22 | Lakers: Austin Reaves scores 2 pts | Score: 14-11 | Lakers leads by 3
+2025-10-03 15:55:15 | INFO | 🔥 MOMENTUM SHIFT: Lakers has scored 11 consecutive points!
+2025-10-03 15:55:15 | INFO | Event #13 | Q1 03:41 | Lakers: Rui Hachimura scores 3 pts | Score: 17-11 | Lakers leads by 6
+2025-10-03 15:55:15 | INFO | Event #14 | Q1 02:55 | Warriors: Draymond Green scores 2 pts | Score: 17-13 | Lakers leads by 4
+2025-10-03 15:55:15 | INFO | Event #15 | Q2 12:00 | Warriors: Stephen Curry scores 3 pts | Score: 17-16 | Lakers leads by 1
+2025-10-03 15:55:15 | INFO | 🔥 MOMENTUM SHIFT: Warriors has scored 8 consecutive points!
+2025-10-03 15:55:15 | INFO | Event #16 | Q2 11:00 | Warriors: Draymond Green scores 3 pts | Score: 17-19 | Warriors leads by 2
+2025-10-03 15:55:15 | INFO | 🔥 MOMENTUM SHIFT: Warriors has scored 10 consecutive points!
+2025-10-03 15:55:15 | INFO | Event #17 | Q2 10:21 | Warriors: Chris Paul scores 2 pts | Score: 17-21 | Warriors leads by 4
+2025-10-03 15:55:16 | INFO | Event #18 | Q2 09:22 | Lakers: Anthony Davis scores 2 pts | Score: 19-21 | Warriors leads by 2
+2025-10-03 15:55:16 | INFO | Event #19 | Q2 08:40 | Warriors: Chris Paul scores 3 pts | Score: 19-24 | Warriors leads by 5
+2025-10-03 15:55:17 | INFO | Event #20 | Q2 07:52 | Warriors: Chris Paul scores 2 pts | Score: 19-26 | Warriors leads by 7
+2025-10-03 15:55:17 | INFO | Event #21 | Q2 06:59 | Lakers: D'Angelo Russell scores 3 pts | Score: 22-26 | Warriors leads by 4
+2025-10-03 15:55:17 | INFO | Event #22 | Q2 06:24 | Warriors: Draymond Green scores 3 pts | Score: 22-29 | Warriors leads by 7
+2025-10-03 15:55:18 | INFO | 🔥 MOMENTUM SHIFT: Warriors has scored 6 consecutive points!
+2025-10-03 15:55:18 | INFO | Event #23 | Q2 05:49 | Warriors: Klay Thompson scores 3 pts | Score: 22-32 | Warriors leads by 10
+2025-10-03 15:55:18 | INFO | 🔥 MOMENTUM SHIFT: Warriors has scored 8 consecutive points!
+2025-10-03 15:55:18 | INFO | Event #24 | Q2 04:54 | Warriors: Stephen Curry scores 2 pts | Score: 22-34 | Warriors leads by 12
+2025-10-03 15:55:18 | INFO | Event #25 | Q2 04:28 | Lakers: LeBron James scores 2 pts | Score: 24-34 | Warriors leads by 10
+2025-10-03 15:55:18 | INFO | Event #26 | Q2 03:56 | Lakers: Rui Hachimura scores 3 pts | Score: 27-34 | Warriors leads by 7
+2025-10-03 15:55:19 | INFO | 🔥 MOMENTUM SHIFT: Lakers has scored 7 consecutive points!
+2025-10-03 15:55:19 | INFO | Event #27 | Q2 03:29 | Lakers: Anthony Davis scores 2 pts | Score: 29-34 | Warriors leads by 5
+2025-10-03 15:55:19 | INFO | 🔥 MOMENTUM SHIFT: Lakers has scored 9 consecutive points!
+2025-10-03 15:55:19 | INFO | Event #28 | Q2 02:54 | Lakers: LeBron James scores 2 pts | Score: 31-34 | Warriors leads by 3
+2025-10-03 15:55:19 | INFO | Event #29 | Q2 02:13 | Warriors: Andrew Wiggins scores 2 pts | Score: 31-36 | Warriors leads by 5
+2025-10-03 15:55:19 | INFO | Event #30 | Q3 12:00 | Lakers: Rui Hachimura scores 3 pts | Score: 34-36 | Warriors leads by 2
+2025-10-03 15:55:20 | INFO | Event #31 | Q3 11:24 | Warriors: Stephen Curry scores 3 pts | Score: 34-39 | Warriors leads by 5
+2025-10-03 15:55:20 | INFO | Event #32 | Q3 10:29 | Warriors: Klay Thompson scores 2 pts | Score: 34-41 | Warriors leads by 7
+2025-10-03 15:55:20 | INFO | Event #33 | Q3 09:54 | Lakers: LeBron James scores 3 pts | Score: 37-41 | Warriors leads by 4
+2025-10-03 15:55:21 | INFO | Event #34 | Q3 08:54 | Warriors: Klay Thompson scores 2 pts | Score: 37-43 | Warriors leads by 6
+2025-10-03 15:55:21 | INFO | Event #35 | Q3 08:02 | Lakers: LeBron James scores 2 pts | Score: 39-43 | Warriors leads by 4
+2025-10-03 15:55:21 | INFO | Event #36 | Q3 07:14 | Lakers: Rui Hachimura scores 2 pts | Score: 41-43 | Warriors leads by 2
+2025-10-03 15:55:22 | INFO | Event #37 | Q3 06:20 | Warriors: Stephen Curry scores 2 pts | Score: 41-45 | Warriors leads by 4
+2025-10-03 15:55:22 | INFO | Event #38 | Q3 05:39 | Warriors: Andrew Wiggins scores 2 pts | Score: 41-47 | Warriors leads by 6
+2025-10-03 15:55:22 | INFO | Event #39 | Q3 04:56 | Lakers: Anthony Davis scores 3 pts | Score: 44-47 | Warriors leads by 3
+2025-10-03 15:55:23 | INFO | Event #40 | Q3 04:02 | Warriors: Stephen Curry scores 2 pts | Score: 44-49 | Warriors leads by 5
+2025-10-03 15:55:23 | INFO | Event #41 | Q3 03:41 | Lakers: D'Angelo Russell scores 3 pts | Score: 47-49 | Warriors leads by 2
+2025-10-03 15:55:23 | INFO | Event #42 | Q3 02:56 | Warriors: Chris Paul scores 2 pts | Score: 47-51 | Warriors leads by 4
+2025-10-03 15:55:23 | INFO | Event #43 | Q4 12:00 | Lakers: Austin Reaves scores 3 pts | Score: 50-51 | Warriors leads by 1
+2025-10-03 15:55:24 | INFO | 🔥 MOMENTUM SHIFT: Lakers has scored 6 consecutive points!
+2025-10-03 15:55:24 | INFO | Event #44 | Q4 11:18 | Lakers: Austin Reaves scores 3 pts | Score: 53-51 | Lakers leads by 2
+2025-10-03 15:55:24 | INFO | 🔥 MOMENTUM SHIFT: Lakers has scored 8 consecutive points!
+2025-10-03 15:55:24 | INFO | Event #45 | Q4 10:53 | Lakers: D'Angelo Russell scores 2 pts | Score: 55-51 | Lakers leads by 4
+2025-10-03 15:55:24 | INFO | 🔥 MOMENTUM SHIFT: Lakers has scored 10 consecutive points!
+2025-10-03 15:55:24 | INFO | Event #46 | Q4 10:10 | Lakers: Rui Hachimura scores 2 pts | Score: 57-51 | Lakers leads by 6
+2025-10-03 15:55:24 | INFO | 🔥 MOMENTUM SHIFT: Lakers has scored 13 consecutive points!
+2025-10-03 15:55:24 | INFO | Event #47 | Q4 09:23 | Lakers: Anthony Davis scores 3 pts | Score: 60-51 | Lakers leads by 9
+2025-10-03 15:55:25 | INFO | 🔥 MOMENTUM SHIFT: Lakers has scored 16 consecutive points!
+2025-10-03 15:55:25 | INFO | Event #48 | Q4 08:34 | Lakers: Rui Hachimura scores 3 pts | Score: 63-51 | Lakers leads by 12
+2025-10-03 15:55:25 | INFO | Event #49 | Q4 07:57 | Warriors: Stephen Curry scores 2 pts | Score: 63-53 | Lakers leads by 10
+2025-10-03 15:55:25 | INFO | Event #50 | Q4 07:06 | Warriors: Klay Thompson scores 2 pts | Score: 63-55 | Lakers leads by 8
+2025-10-03 15:55:26 | INFO | Event #51 | Q4 06:12 | Lakers: D'Angelo Russell scores 3 pts | Score: 66-55 | Lakers leads by 11
+2025-10-03 15:55:26 | INFO | Event #52 | Q4 05:20 | Warriors: Chris Paul scores 3 pts | Score: 66-58 | Lakers leads by 8
+2025-10-03 15:55:26 | INFO | Event #53 | Q4 04:44 | Warriors: Andrew Wiggins scores 2 pts | Score: 66-60 | Lakers leads by 6
+2025-10-03 15:55:26 | INFO | Event #54 | Q4 03:54 | Lakers: Austin Reaves scores 2 pts | Score: 68-60 | Lakers leads by 8
+2025-10-03 15:55:26 | INFO | Event #55 | Q4 03:09 | Warriors: Stephen Curry scores 3 pts | Score: 68-63 | Lakers leads by 5
+2025-10-03 15:55:26 | INFO | Event #56 | Q4 02:32 | Warriors: Andrew Wiggins scores 2 pts | Score: 68-65 | Lakers leads by 3
+2025-10-03 15:55:26 | INFO | 🔥 MOMENTUM SHIFT: Warriors has scored 7 consecutive points!
+2025-10-03 15:55:26 | INFO | Event #57 | Q4 01:42 | Warriors: Andrew Wiggins scores 2 pts | Score: 68-67 | Lakers leads by 1
+2025-10-03 15:55:31 | INFO | 
+Consumer interrupted by user.
+2025-10-03 15:55:31 | INFO | 
+==================================================
+GAME SUMMARY
+==================================================
+Lakers: 68 (28 scores)
+Warriors: 67 (29 scores)
+Leader: Lakers by 1 points
+Total events processed: 57
+==================================================
+
+2025-10-03 15:55:31 | INFO | Stopping visualizer...
+2025-10-03 16:06:27 | INFO | Logging to file: logs/project_log.log
+2025-10-03 16:06:27 | INFO | Log sanitization enabled, personal info removed
+2025-10-03 16:06:27 | INFO | Basketball Producer Starting...
+2025-10-03 16:06:27 | INFO | Kafka broker address: localhost:9092
+2025-10-03 16:06:27 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'HpVDt2xUThyOIoAj7H8wjg', 'controller_id': 1}
+2025-10-03 16:06:27 | INFO | Kafka broker address: localhost:9092
+2025-10-03 16:06:27 | INFO | Topic 'basketball-game' already exists. Recreating fresh...
+2025-10-03 16:06:28 | INFO | Requested deletion of topic 'basketball-game'.
+2025-10-03 16:06:28 | INFO | Topic 'basketball-game' created successfully.
+2025-10-03 16:06:28 | INFO | Kafka broker address: localhost:9092
+2025-10-03 16:06:28 | INFO | Connecting to Kafka broker at localhost:9092...
+2025-10-03 16:06:28 | INFO | Kafka producer successfully created.
+2025-10-03 16:06:28 | INFO | Starting basketball game simulation...
+2025-10-03 16:06:28 | INFO | Lakers vs Warriors
+2025-10-03 16:06:28 | INFO | 
+=== Quarter 1 ===
+2025-10-03 16:06:28 | INFO | Q1 12:00 - Warriors: Andrew Wiggins scores 3 points! Score: 0-3
+2025-10-03 16:06:30 | INFO | Q1 11:21 - Lakers: LeBron James scores 2 points! Score: 2-3
+2025-10-03 16:06:33 | INFO | Q1 10:30 - Lakers: D'Angelo Russell scores 2 points! Score: 4-3
+2025-10-03 16:06:37 | INFO | Q1 09:40 - Lakers: Austin Reaves scores 2 points! Score: 6-3
+2025-10-03 16:06:40 | INFO | Logging to file: logs/project_log.log
+2025-10-03 16:06:40 | INFO | Log sanitization enabled, personal info removed
+2025-10-03 16:06:41 | INFO | Basketball Consumer Starting...
+2025-10-03 16:06:41 | INFO | Subscribing to topic: basketball-game
+2025-10-03 16:06:41 | INFO | Kafka broker address: localhost:9092
+2025-10-03 16:06:41 | INFO | Creating Kafka consumer. Topic='basketball-game' and group ID='basketball-analytics-group'.
+2025-10-03 16:06:41 | INFO | Q1 08:47 - Lakers: Austin Reaves scores 2 points! Score: 8-3
+2025-10-03 16:06:41 | INFO | Kafka consumer created successfully.
+2025-10-03 16:06:41 | INFO | Analytics initialized: Lakers vs Warriors
+2025-10-03 16:06:41 | INFO | Visualizer initialized
+2025-10-03 16:06:41 | INFO | Consumer ready. Waiting for messages...
+2025-10-03 16:06:41 | INFO | Press Ctrl+C to stop.
+
+2025-10-03 16:06:41 | INFO | Plot setup complete
+2025-10-03 16:06:41 | INFO | Starting visualization...
+2025-10-03 16:06:44 | INFO | Q1 08:07 - Warriors: Stephen Curry scores 2 points! Score: 8-5
+2025-10-03 16:06:45 | INFO | Event #1 | Q1 12:00 | Warriors: Andrew Wiggins scores 3 pts | Score: 0-3 | Warriors leads by 3
+2025-10-03 16:06:45 | INFO | Event #2 | Q1 11:21 | Lakers: LeBron James scores 2 pts | Score: 2-3 | Warriors leads by 1
+2025-10-03 16:06:45 | INFO | Event #3 | Q1 10:30 | Lakers: D'Angelo Russell scores 2 pts | Score: 4-3 | Lakers leads by 1
+2025-10-03 16:06:46 | INFO | 🔥 MOMENTUM SHIFT: Lakers has scored 6 consecutive points!
+2025-10-03 16:06:46 | INFO | Event #4 | Q1 09:40 | Lakers: Austin Reaves scores 2 pts | Score: 6-3 | Lakers leads by 3
+2025-10-03 16:06:46 | INFO | 🔥 MOMENTUM SHIFT: Lakers has scored 8 consecutive points!
+2025-10-03 16:06:46 | INFO | Event #5 | Q1 08:47 | Lakers: Austin Reaves scores 2 pts | Score: 8-3 | Lakers leads by 5
+2025-10-03 16:06:46 | INFO | Event #6 | Q1 08:07 | Warriors: Stephen Curry scores 2 pts | Score: 8-5 | Lakers leads by 3
+2025-10-03 16:06:47 | INFO | Q1 07:10 - Lakers: D'Angelo Russell scores 2 points! Score: 10-5
+2025-10-03 16:06:47 | INFO | Event #7 | Q1 07:10 | Lakers: D'Angelo Russell scores 2 pts | Score: 10-5 | Lakers leads by 5
+2025-10-03 16:06:49 | INFO | Q1 06:28 - Lakers: Rui Hachimura scores 2 points! Score: 12-5
+2025-10-03 16:06:49 | INFO | Event #8 | Q1 06:28 | Lakers: Rui Hachimura scores 2 pts | Score: 12-5 | Lakers leads by 7
+2025-10-03 16:06:50 | INFO | Q1 05:47 - Lakers: Rui Hachimura scores 2 points! Score: 14-5
+2025-10-03 16:06:50 | INFO | 🔥 MOMENTUM SHIFT: Lakers has scored 6 consecutive points!
+2025-10-03 16:06:50 | INFO | Event #9 | Q1 05:47 | Lakers: Rui Hachimura scores 2 pts | Score: 14-5 | Lakers leads by 9
+2025-10-03 16:06:53 | INFO | Q1 05:01 - Lakers: D'Angelo Russell scores 3 points! Score: 17-5
+2025-10-03 16:06:53 | INFO | 🔥 MOMENTUM SHIFT: Lakers has scored 9 consecutive points!
+2025-10-03 16:06:53 | INFO | Event #10 | Q1 05:01 | Lakers: D'Angelo Russell scores 3 pts | Score: 17-5 | Lakers leads by 12
+2025-10-03 16:06:55 | INFO | Q1 04:01 - Warriors: Chris Paul scores 2 points! Score: 17-7
+2025-10-03 16:06:55 | INFO | Event #11 | Q1 04:01 | Warriors: Chris Paul scores 2 pts | Score: 17-7 | Lakers leads by 10
+2025-10-03 16:06:58 | INFO | Q1 03:06 - Lakers: Rui Hachimura scores 2 points! Score: 19-7
+2025-10-03 16:06:58 | INFO | Event #12 | Q1 03:06 | Lakers: Rui Hachimura scores 2 pts | Score: 19-7 | Lakers leads by 12
+2025-10-03 16:07:00 | INFO | Q1 02:34 - Warriors: Chris Paul scores 2 points! Score: 19-9
+2025-10-03 16:07:00 | INFO | Event #13 | Q1 02:34 | Warriors: Chris Paul scores 2 pts | Score: 19-9 | Lakers leads by 10
+2025-10-03 16:07:03 | INFO | Q1 02:02 - Warriors: Klay Thompson scores 2 points! Score: 19-11
+2025-10-03 16:07:03 | INFO | Event #14 | Q1 02:02 | Warriors: Klay Thompson scores 2 pts | Score: 19-11 | Lakers leads by 8
+2025-10-03 16:07:07 | INFO | Q1 01:28 - Warriors: Chris Paul scores 2 points! Score: 19-13
+2025-10-03 16:07:07 | INFO | 🔥 MOMENTUM SHIFT: Warriors has scored 6 consecutive points!
+2025-10-03 16:07:07 | INFO | Event #15 | Q1 01:28 | Warriors: Chris Paul scores 2 pts | Score: 19-13 | Lakers leads by 6
+2025-10-03 16:07:09 | INFO | 
+=== Quarter 2 ===
+2025-10-03 16:07:09 | INFO | Q2 12:00 - Warriors: Draymond Green scores 3 points! Score: 19-16
+2025-10-03 16:07:09 | INFO | 🔥 MOMENTUM SHIFT: Warriors has scored 9 consecutive points!
+2025-10-03 16:07:09 | INFO | Event #16 | Q2 12:00 | Warriors: Draymond Green scores 3 pts | Score: 19-16 | Lakers leads by 3
+2025-10-03 16:07:11 | INFO | Q2 11:08 - Lakers: Austin Reaves scores 3 points! Score: 22-16
+2025-10-03 16:07:11 | INFO | Event #17 | Q2 11:08 | Lakers: Austin Reaves scores 3 pts | Score: 22-16 | Lakers leads by 6
+2025-10-03 16:07:14 | INFO | Q2 10:09 - Warriors: Andrew Wiggins scores 2 points! Score: 22-18
+2025-10-03 16:07:14 | INFO | Event #18 | Q2 10:09 | Warriors: Andrew Wiggins scores 2 pts | Score: 22-18 | Lakers leads by 4
+2025-10-03 16:07:17 | INFO | Q2 09:43 - Warriors: Stephen Curry scores 3 points! Score: 22-21
+2025-10-03 16:07:17 | INFO | Event #19 | Q2 09:43 | Warriors: Stephen Curry scores 3 pts | Score: 22-21 | Lakers leads by 1
+2025-10-03 16:07:20 | INFO | Q2 09:06 - Lakers: Anthony Davis scores 3 points! Score: 25-21
+2025-10-03 16:07:20 | INFO | Event #20 | Q2 09:06 | Lakers: Anthony Davis scores 3 pts | Score: 25-21 | Lakers leads by 4
+2025-10-03 16:07:24 | INFO | Q2 08:36 - Warriors: Chris Paul scores 2 points! Score: 25-23
+2025-10-03 16:07:24 | INFO | Event #21 | Q2 08:36 | Warriors: Chris Paul scores 2 pts | Score: 25-23 | Lakers leads by 2
+2025-10-03 16:07:28 | INFO | Q2 07:36 - Lakers: LeBron James scores 2 points! Score: 27-23
+2025-10-03 16:07:28 | INFO | Event #22 | Q2 07:36 | Lakers: LeBron James scores 2 pts | Score: 27-23 | Lakers leads by 4
+2025-10-03 16:07:31 | INFO | Q2 06:59 - Warriors: Andrew Wiggins scores 3 points! Score: 27-26
+2025-10-03 16:07:31 | INFO | Event #23 | Q2 06:59 | Warriors: Andrew Wiggins scores 3 pts | Score: 27-26 | Lakers leads by 1
+2025-10-03 16:07:35 | INFO | Q2 06:36 - Lakers: Rui Hachimura scores 2 points! Score: 29-26
+2025-10-03 16:07:35 | INFO | Event #24 | Q2 06:36 | Lakers: Rui Hachimura scores 2 pts | Score: 29-26 | Lakers leads by 3
+2025-10-03 16:07:38 | INFO | Q2 06:04 - Warriors: Klay Thompson scores 2 points! Score: 29-28
+2025-10-03 16:07:38 | INFO | Event #25 | Q2 06:04 | Warriors: Klay Thompson scores 2 pts | Score: 29-28 | Lakers leads by 1
+2025-10-03 16:07:40 | INFO | Q2 05:28 - Lakers: Austin Reaves scores 2 points! Score: 31-28
+2025-10-03 16:07:40 | INFO | Event #26 | Q2 05:28 | Lakers: Austin Reaves scores 2 pts | Score: 31-28 | Lakers leads by 3
+2025-10-03 16:07:43 | INFO | Q2 04:32 - Warriors: Chris Paul scores 3 points! Score: 31-31
+2025-10-03 16:07:43 | INFO | Event #27 | Q2 04:32 | Warriors: Chris Paul scores 3 pts | Score: 31-31 | Warriors leads by 0
+2025-10-03 16:07:47 | INFO | Q2 04:01 - Lakers: Austin Reaves scores 3 points! Score: 34-31
+2025-10-03 16:07:47 | INFO | Event #28 | Q2 04:01 | Lakers: Austin Reaves scores 3 pts | Score: 34-31 | Lakers leads by 3
+2025-10-03 16:07:50 | INFO | Q2 03:17 - Lakers: Rui Hachimura scores 3 points! Score: 37-31
+2025-10-03 16:07:50 | INFO | 🔥 MOMENTUM SHIFT: Lakers has scored 6 consecutive points!
+2025-10-03 16:07:50 | INFO | Event #29 | Q2 03:17 | Lakers: Rui Hachimura scores 3 pts | Score: 37-31 | Lakers leads by 6
+2025-10-03 16:07:54 | INFO | Q2 02:31 - Lakers: Anthony Davis scores 3 points! Score: 40-31
+2025-10-03 16:07:54 | INFO | 🔥 MOMENTUM SHIFT: Lakers has scored 9 consecutive points!
+2025-10-03 16:07:54 | INFO | Event #30 | Q2 02:31 | Lakers: Anthony Davis scores 3 pts | Score: 40-31 | Lakers leads by 9
+2025-10-03 16:07:58 | INFO | 
+=== Quarter 3 ===
+2025-10-03 16:07:58 | INFO | Q3 12:00 - Warriors: Draymond Green scores 3 points! Score: 40-34
+2025-10-03 16:07:58 | INFO | Event #31 | Q3 12:00 | Warriors: Draymond Green scores 3 pts | Score: 40-34 | Lakers leads by 6
+2025-10-03 16:08:00 | INFO | Q3 11:18 - Warriors: Klay Thompson scores 3 points! Score: 40-37
+2025-10-03 16:08:00 | INFO | 🔥 MOMENTUM SHIFT: Warriors has scored 6 consecutive points!
+2025-10-03 16:08:00 | INFO | Event #32 | Q3 11:18 | Warriors: Klay Thompson scores 3 pts | Score: 40-37 | Lakers leads by 3
+2025-10-03 16:08:02 | INFO | Q3 10:22 - Warriors: Andrew Wiggins scores 2 points! Score: 40-39
+2025-10-03 16:08:02 | INFO | 🔥 MOMENTUM SHIFT: Warriors has scored 8 consecutive points!
+2025-10-03 16:08:02 | INFO | Event #33 | Q3 10:22 | Warriors: Andrew Wiggins scores 2 pts | Score: 40-39 | Lakers leads by 1
+2025-10-03 16:08:04 | INFO | Q3 09:27 - Lakers: Rui Hachimura scores 2 points! Score: 42-39
+2025-10-03 16:08:04 | INFO | Event #34 | Q3 09:27 | Lakers: Rui Hachimura scores 2 pts | Score: 42-39 | Lakers leads by 3
+2025-10-03 16:08:07 | INFO | Q3 08:45 - Warriors: Draymond Green scores 2 points! Score: 42-41
+2025-10-03 16:08:07 | INFO | Event #35 | Q3 08:45 | Warriors: Draymond Green scores 2 pts | Score: 42-41 | Lakers leads by 1
+2025-10-03 16:08:11 | INFO | Q3 08:06 - Warriors: Stephen Curry scores 3 points! Score: 42-44
+2025-10-03 16:08:11 | INFO | Event #36 | Q3 08:06 | Warriors: Stephen Curry scores 3 pts | Score: 42-44 | Warriors leads by 2
+2025-10-03 16:08:14 | INFO | Q3 07:26 - Lakers: Austin Reaves scores 2 points! Score: 44-44
+2025-10-03 16:08:14 | INFO | Event #37 | Q3 07:26 | Lakers: Austin Reaves scores 2 pts | Score: 44-44 | Warriors leads by 0
+2025-10-03 16:08:17 | INFO | Q3 07:00 - Warriors: Draymond Green scores 3 points! Score: 44-47
+2025-10-03 16:08:17 | INFO | Event #38 | Q3 07:00 | Warriors: Draymond Green scores 3 pts | Score: 44-47 | Warriors leads by 3
+2025-10-03 16:08:21 | INFO | Q3 06:22 - Warriors: Stephen Curry scores 2 points! Score: 44-49
+2025-10-03 16:08:21 | INFO | Event #39 | Q3 06:22 | Warriors: Stephen Curry scores 2 pts | Score: 44-49 | Warriors leads by 5
+2025-10-03 16:08:25 | INFO | Q3 05:24 - Lakers: Anthony Davis scores 2 points! Score: 46-49
+2025-10-03 16:08:25 | INFO | Event #40 | Q3 05:24 | Lakers: Anthony Davis scores 2 pts | Score: 46-49 | Warriors leads by 3
+2025-10-03 16:08:29 | INFO | 
+=== Quarter 4 ===
+2025-10-03 16:08:29 | INFO | Q4 12:00 - Warriors: Chris Paul scores 3 points! Score: 46-52
+2025-10-03 16:08:29 | INFO | Event #41 | Q4 12:00 | Warriors: Chris Paul scores 3 pts | Score: 46-52 | Warriors leads by 6
+2025-10-03 16:08:32 | INFO | Q4 11:04 - Warriors: Draymond Green scores 3 points! Score: 46-55
+2025-10-03 16:08:32 | INFO | 🔥 MOMENTUM SHIFT: Warriors has scored 6 consecutive points!
+2025-10-03 16:08:32 | INFO | Event #42 | Q4 11:04 | Warriors: Draymond Green scores 3 pts | Score: 46-55 | Warriors leads by 9
+2025-10-03 16:08:35 | INFO | Q4 10:14 - Lakers: LeBron James scores 2 points! Score: 48-55
+2025-10-03 16:08:35 | INFO | Event #43 | Q4 10:14 | Lakers: LeBron James scores 2 pts | Score: 48-55 | Warriors leads by 7
+2025-10-03 16:08:37 | INFO | Q4 09:28 - Lakers: D'Angelo Russell scores 3 points! Score: 51-55
+2025-10-03 16:08:37 | INFO | Event #44 | Q4 09:28 | Lakers: D'Angelo Russell scores 3 pts | Score: 51-55 | Warriors leads by 4
+2025-10-03 16:08:39 | INFO | Q4 08:59 - Warriors: Andrew Wiggins scores 2 points! Score: 51-57
+2025-10-03 16:08:39 | INFO | Event #45 | Q4 08:59 | Warriors: Andrew Wiggins scores 2 pts | Score: 51-57 | Warriors leads by 6
+2025-10-03 16:08:42 | INFO | Q4 08:03 - Warriors: Klay Thompson scores 2 points! Score: 51-59
+2025-10-03 16:08:42 | INFO | Event #46 | Q4 08:03 | Warriors: Klay Thompson scores 2 pts | Score: 51-59 | Warriors leads by 8
+2025-10-03 16:08:44 | INFO | Q4 07:41 - Warriors: Stephen Curry scores 2 points! Score: 51-61
+2025-10-03 16:08:44 | INFO | 🔥 MOMENTUM SHIFT: Warriors has scored 6 consecutive points!
+2025-10-03 16:08:44 | INFO | Event #47 | Q4 07:41 | Warriors: Stephen Curry scores 2 pts | Score: 51-61 | Warriors leads by 10
+2025-10-03 16:08:47 | INFO | Q4 07:00 - Lakers: Anthony Davis scores 2 points! Score: 53-61
+2025-10-03 16:08:47 | INFO | Event #48 | Q4 07:00 | Lakers: Anthony Davis scores 2 pts | Score: 53-61 | Warriors leads by 8
+2025-10-03 16:08:50 | INFO | Q4 06:05 - Warriors: Stephen Curry scores 2 points! Score: 53-63
+2025-10-03 16:08:50 | INFO | Event #49 | Q4 06:05 | Warriors: Stephen Curry scores 2 pts | Score: 53-63 | Warriors leads by 10
+2025-10-03 16:08:54 | INFO | Q4 05:28 - Lakers: Anthony Davis scores 2 points! Score: 55-63
+2025-10-03 16:08:54 | INFO | Event #50 | Q4 05:28 | Lakers: Anthony Davis scores 2 pts | Score: 55-63 | Warriors leads by 8
+2025-10-03 16:08:58 | INFO | Q4 05:02 - Lakers: Rui Hachimura scores 3 points! Score: 58-63
+2025-10-03 16:08:58 | INFO | Event #51 | Q4 05:02 | Lakers: Rui Hachimura scores 3 pts | Score: 58-63 | Warriors leads by 5
+2025-10-03 16:09:01 | INFO | Q4 04:28 - Warriors: Klay Thompson scores 3 points! Score: 58-66
+2025-10-03 16:09:01 | INFO | Event #52 | Q4 04:28 | Warriors: Klay Thompson scores 3 pts | Score: 58-66 | Warriors leads by 8
+2025-10-03 16:09:04 | INFO | Q4 03:44 - Warriors: Andrew Wiggins scores 2 points! Score: 58-68
+2025-10-03 16:09:04 | INFO | Event #53 | Q4 03:44 | Warriors: Andrew Wiggins scores 2 pts | Score: 58-68 | Warriors leads by 10
+2025-10-03 16:09:05 | INFO | 
+Consumer interrupted by user.
+2025-10-03 16:09:05 | INFO | 
+==================================================
+GAME SUMMARY
+==================================================
+Lakers: 58 (25 scores)
+Warriors: 68 (28 scores)
+Leader: Warriors by 10 points
+Total events processed: 53
+==================================================
+
+2025-10-03 16:09:05 | INFO | Stopping visualizer...
+2025-10-03 16:09:06 | INFO | Visualizer stopped
+2025-10-03 16:09:06 | INFO | Closing Kafka consumer...
+2025-10-03 16:09:06 | INFO | Consumer closed. Goodbye!
+2025-10-03 16:09:06 | INFO | Q4 02:54 - Lakers: LeBron James scores 2 points! Score: 60-68
+2025-10-03 16:09:09 | INFO | 
+==================================================
+2025-10-03 16:09:09 | INFO | GAME FINAL
+2025-10-03 16:09:09 | INFO | Lakers: 60
+2025-10-03 16:09:09 | INFO | Warriors: 68
+2025-10-03 16:09:09 | INFO | Total scoring events: 54
+2025-10-03 16:09:09 | INFO | ==================================================
+2025-10-03 16:09:09 | INFO | Closing Kafka producer...
+2025-10-03 16:09:09 | INFO | Producer closed. Goodbye!
