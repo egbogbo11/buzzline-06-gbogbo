@@ -65,7 +65,11 @@ buzzline-06-gbogbo/
 - Apache Kafka running locally (default: `localhost:9092`)
 - Required Python packages (install via `requirements.txt`)
 
+## Set Up Environment
 ```bash
+py -3.11 -m venv .venv
+.venv\Scripts\activate  # Windows PowerShell
+py -m pip install --upgrade pip wheel setuptools
 pip install -r requirements.txt
 ```
 
@@ -74,6 +78,14 @@ pip install -r requirements.txt
 ### Step 1: Start Kafka
 
 Ensure your Kafka broker is running on `localhost:9092`. The producer will automatically create the topic if it doesn't exist.
+
+```bash
+chmod +x scripts/prepare_kafka.sh
+scripts/prepare_kafka.sh
+cd ~/kafka
+bin/kafka-server-start.sh config/kraft/server.properties
+```
+Make sure to keep the terminal open and running. 
 
 ### Step 2: Run the Producer
 
